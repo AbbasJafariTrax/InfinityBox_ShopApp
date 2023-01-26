@@ -1,0 +1,9 @@
+const double padding10 = 10;
+const double padding01 = 0.01;
+const double padding02 = 0.02;
+const double padding2 = 0.2;
+const double padding05 = 0.05;
+const double padding15 = 15;
+const double padding20 = 20;
+const double padding25 = 25;
+const double padding30 = 30;
